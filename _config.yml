@@ -18,18 +18,16 @@ avatar: https://avatars.githubusercontent.com/u/79184015?v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: phucnh1408@gmail.com
+  facebook: b4by.c0w
   flickr:
   github: b4by-c0w
   instagram:
-  linkedin:
+  linkedin: phúc-nguyễn-hồng-41b75325b
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: 
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
